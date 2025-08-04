@@ -11,8 +11,7 @@ Welcome to the official repository of my personal portfolio website. This respon
 
 🔗 Visit Now
 <br>
-
-(Replace with your actual Netlify/GitHub Pages URL if different)
+neerajkrportfolio.netlify.app
 
 
 
@@ -149,7 +148,7 @@ Hosting: Netlify (or GitHub Pages)
 
 
 # Clone the repository
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/17neerajkr/your-repo-name.git
 <br>
 
 # Open with VS Code or any HTML editor
@@ -168,10 +167,7 @@ code .
 
 <br>
 
-Email: neerajkumar@example.com
 
-
-<br>
 
 
 GitHub: github.com/17neerajkr
